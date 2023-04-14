@@ -1,4 +1,75 @@
+ {
+    id: 1,
+    author: "BALI 2",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/BALI2.jpg",
+  },
 
+  {
+    id: 2,
+    author: "BALI 3",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/BALI3.jpg",
+  },
+
+  {
+    id: 3,
+    author: "JAKARTA 1",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/JKT1.jpg",
+  },
+
+  {
+    id: 4,
+    author: "JAKARTA 2",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/JKT2.gif",
+  },
+
+  {
+    id: 5,
+    author: "MALANG",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/MLG1.gif",
+  },
+
+  {
+    id: 6,
+    author: "Eden Faith",
+    imageUrl: "images/7.jpg",
+  },
+
+  {
+    id: 7,
+    author: "Flora Maeve",
+    imageUrl: "images/8.jpg",
+  },
+
+  {
+    id: 8,
+    author: "Nathaniel Hayes",
+    imageUrl: "images/9.jpg",
+  },
+
+  {
+    id: 9,
+    author: "Everett Lee",
+    imageUrl: "images/10.jpg",
+  },
+
+  {
+    id: 9,
+    author: "Owen",
+    imageUrl: "images/11.jpg",
+  },
+
+  {
+    id: 9,
+    author: "Caleb Knox",
+    imageUrl: "images/12.jpg",
+  },
+
+  {
+    id: 9,
+    author: "Felix",
+    imageUrl: "images/13.jpg",
+  },
+];
 
 const stories = document.querySelector(".stories");
 const storiesFullView = document.querySelector(".stories-full-view");
