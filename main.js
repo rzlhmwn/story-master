@@ -1,32 +1,32 @@
 const allStories = [
   {
     id: 0,
-    author: "Luna Belle",
-    imageUrl: "images/1.jpg",
+    author: "BALI 1",
+    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/BALI1.jpg",
   },
 
   {
     id: 1,
-    author: "Willow Grace",
-    imageUrl: "images/2.jpg",
+    author: "BALI 2",
+    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/BALI2.jpg",
   },
 
   {
     id: 2,
-    author: "Emma Smith",
-    imageUrl: "images/3.jpg",
+    author: "BALI 3",
+    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/BALI3.jpg",
   },
 
   {
     id: 3,
-    author: "Ruby Skye",
-    imageUrl: "images/4.jpg",
+    author: "JAKARTA 1",
+    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/JKT1.jpg",
   },
 
   {
     id: 4,
-    author: "Live Blogger",
-    imageUrl: "images/5.jpg",
+    author: "JAKARTA 2",
+    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/JKT2.gif",
   },
 
   {
