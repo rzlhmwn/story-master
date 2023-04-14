@@ -2,37 +2,37 @@ const allStories = [
   {
     id: 0,
     author: "BALI 1",
-    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/BALI1.jpg",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/BALI1.jpg",
   },
 
   {
     id: 1,
     author: "BALI 2",
-    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/BALI2.jpg",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/BALI2.jpg",
   },
 
   {
     id: 2,
     author: "BALI 3",
-    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/BALI3.jpg",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/BALI3.jpg",
   },
 
   {
     id: 3,
     author: "JAKARTA 1",
-    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/JKT1.jpg",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/JKT1.jpg",
   },
 
   {
     id: 4,
     author: "JAKARTA 2",
-    imageUrl: "https://github.com/rzlhmwn/story-master/blob/main/JKT2.gif",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/JKT2.gif",
   },
 
   {
     id: 5,
-    author: "Hazel Jade",
-    imageUrl: "images/6.jpg",
+    author: "MALANG",
+    imageUrl: "https://rawcdn.githack.com/rzlhmwn/story-master/436d946c2c481af6ebc381e29fe9b42c22f1104b/MLG1.gif",
   },
 
   {
